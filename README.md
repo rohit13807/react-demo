@@ -1,3 +1,5 @@
+## Ecommerce demo using react.js
+
 # react-demo
 
 1) Run "npm install" in the extracted folder
